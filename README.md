@@ -1,5 +1,5 @@
 # Python-Solutions-for-LeetCode Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
-Another repository [Daily Dose of Python Coding: Chek now](https://github.com/sudhamshu091/Daily-Dose-of-Python-Coding)
+Another repository [Daily Dose of Python Coding: Check now](https://github.com/sudhamshu091/Daily-Dose-of-Python-Coding)
 # Problems and Solutions
 No. | Question | Solution | Remarks 
 --- | --- | --- | --- 
