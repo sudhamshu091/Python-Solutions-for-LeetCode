@@ -5,4 +5,4 @@ No. | Question | Solution | Remarks
 --- | --- | --- | --- 
 1 |  |  |
 --- | --- | --- | --- 
-2 | [Qsn](https://github.com/sudhamshu091/Python-Solutions-for-LeetCode/blob/main/Qsn2/Add2Numbers.jpg) | [Answer](https://github.com/sudhamshu091/Python-Solutions-for-LeetCode/blob/main/Qsn2/Add2Numbers.py) | We have to take care of the carry bit after addition of LSB numbers
+2 | [Qsn:Add2Numbers](https://github.com/sudhamshu091/Python-Solutions-for-LeetCode/blob/main/Qsn2/Add2Numbers.jpg) | [Add2Numbers.py](https://github.com/sudhamshu091/Python-Solutions-for-LeetCode/blob/main/Qsn2/Add2Numbers.py) | We have to take care of the carry bit after addition of LSB numbers
