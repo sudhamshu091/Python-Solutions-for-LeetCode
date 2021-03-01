@@ -9,4 +9,5 @@ No. | Question | Solution | Remarks
 --- | --- | --- | --- 
 3 | [Qsn:lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [lengthOfLongestSubstring.py](https://github.com/sudhamshu091/Python-Solutions-for-LeetCode/blob/main/Qsn3/lengthOfLongestSubstring.py) | aaaa | 
 --- | --- | --- | --- 
-
+4 | [Qsn:findMedianSortedArrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [findMedianSortedArrays.py](https://github.com/sudhamshu091/Python-Solutions-for-LeetCode/blob/main/Qsn4/findMedianSortedArrays.py) | aaaa 
+--- | --- | --- | --- 
