@@ -5,6 +5,7 @@ class Solution:
         longest_string = string[0]
         len_longest_string = 1
         longest = 1
+
         for i in string[1:]:
             if i not in longest_string:
                 longest_string += i
