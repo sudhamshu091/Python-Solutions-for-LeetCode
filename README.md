@@ -11,3 +11,4 @@ No. | Name | Question | Solution | Remarks
 6 | ZigZag Conversion | [convert](https://leetcode.com/problems/zigzag-conversion/) | [convert.py](Qsn6/convert.py) | Not yet  
 7 | Reverse Integer | [reverse](https://leetcode.com/problems/reverse-integer/) | [reverse.py](Qsn7/reverse.py) | Not yet  
 8 | String to Integer (atoi) | [myAtoi](https://leetcode.com/problems/string-to-integer-atoi/) | [myAtoi.py](Qsn8/myAtoi.py) | Not yet  
+77 | Combinations | [combinations](https://leetcode.com/problems/combinations/) | [combinations.py](Qsn77/combinations.py) | Simple Logic
